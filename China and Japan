@@ -1,6 +1,34 @@
 {
     "gameAttributes": [
         {
+            "key": "phase",
+            "value": 0
+        },
+        {
+            "key": "daysLeft",
+            "value": 0
+        },
+        {
+            "key": "ownerMood",
+            "value": {
+                "wins": 0,
+                "playoffs": 0,
+                "money": 0
+            }
+        },
+        {
+            "key": "season",
+            "value": 1940
+        },
+        {
+            "key": "startingSeason",
+            "value": 1901
+        },
+        {
+            "key": "gracePeriodEnd",
+            "value": 1945
+        },
+        {
             "key": "names",
             "value": {
                 "first": {
