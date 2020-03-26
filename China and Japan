@@ -1,4 +1,57 @@
 {
+  "teams": [
+    {
+      "tid": 0,
+      "cid": 0,
+      "did": 0,
+      "region": "Guilin",
+      "name": "Goats",
+      "abbrev": "GUI",
+      "pop": 4.748,
+      "stadiumCapacity": 50000
+    },
+    {
+      "tid": 1,
+      "cid": 0,
+      "did": 0,
+      "region": "Nanning",
+      "name": "Ninjas",
+      "abbrev": "NAN",
+      "pop": 7.254,
+      "stadiumCapacity": 50000
+    },
+    {
+      "tid": 2,
+      "cid": 0,
+      "did": 0,
+      "region": "Beihai",
+      "name": "Bears",
+      "abbrev": "BEI",
+      "pop": 1.66,
+      "stadiumCapacity": 50000
+    },
+    {
+      "tid": 3,
+      "cid": 0,
+      "did": 0,
+      "region": "Liuzhou",
+      "name": "Lions",
+      "abbrev": "LIU",
+      "pop": 3.7587,
+      "stadiumCapacity": 50000
+    },
+    {
+      "tid": 4,
+      "cid": 0,
+      "did": 0,
+      "region": "Qinzhou",
+      "name": "Herons",
+      "abbrev": "Qin",
+      "pop": 4.041,
+      "stadiumCapacity": 50000
+    },
+   
+    
     "gameAttributes": [
         {
             "key": "phase",
@@ -27,6 +80,31 @@
         {
             "key": "gracePeriodEnd",
             "value": 1702
+        },
+        {
+            "key": "numGamesPlayoffSeries",
+            "value": [7, 7, 7, 7]
+        },
+        {
+            "key": "confs",
+            "value": [
+                {"cid": 0, "name": "Guangxi Region"},
+                {"cid": 1, "name": "Inner Mongolia Region"}
+                {"cid": 2, "name": "Ninxia Region"},
+                {"cid": 3, "name": "Tibet Region"},
+                {"cid": 4, "name": "Xinjiang Region"},
+
+            ]
+        },
+        {
+            "key": "divs",
+            "value": [
+                {"did": 0, "cid": 0, "name": "Guangxi"},
+                {"did": 1, "cid": 1, "name": "Inner Mongolia"},
+                {"did": 2, "cid": 2, "name": "Ninxia"},
+                {"did": 3, "cid": 3, "name": "Tibet"},
+                {"did": 4, "cid": 4, "name": "Xinjiang"}
+            ]
         },
         {
             "key": "names",
