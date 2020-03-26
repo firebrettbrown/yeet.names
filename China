@@ -280,7 +280,7 @@
                 {"cid": 1, "name": "Inner Mongolia Region"}
                 {"cid": 2, "name": "Ningxia Region"},
                 {"cid": 3, "name": "Tibet Region"},
-                {"cid": 4, "name": "Prominent Region"},
+                {"cid": 4, "name": "Prominent Region"}
 
             ]
         },
