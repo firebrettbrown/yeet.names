@@ -45,12 +45,213 @@
       "cid": 0,
       "did": 0,
       "region": "Qinzhou",
-      "name": "Herons",
-      "abbrev": "Qin",
+      "name": "Quakers",
+      "abbrev": "QIN",
       "pop": 4.041,
       "stadiumCapacity": 50000
     },
-   
+    {
+      "tid": 5,
+      "cid": 1,
+      "did": 1,
+      "region": "Wuhai",
+      "name": "Winners",
+      "abbrev": "WUH",
+      "pop": 0.630,
+      "stadiumCapacity": 50000
+    },
+    {
+      "tid": 6,
+      "cid": 1,
+      "did": 1,
+      "region": "Hohhot",
+      "name": "Heroes",
+      "abbrev": "HOT",
+      "pop": 3.11,
+      "stadiumCapacity": 50000
+    },
+    {
+      "tid": 7,
+      "cid": 1,
+      "did": 1,
+      "region": "Ordos City",
+      "name": "Octopi",
+      "abbrev": "ORD",
+      "pop": 1,
+      "stadiumCapacity": 50000
+    },
+    {
+      "tid": 8,
+      "cid": 1,
+      "did": 1,
+      "region": "Baotou",
+      "name": "Bats",
+      "abbrev": "BAO",
+      "pop": 2.070801,
+      "stadiumCapacity": 50000
+    },
+    {
+      "tid": 9,
+      "cid": 1,
+      "did": 1,
+      "region": "Tongliao",
+      "name": "Talent",
+      "abbrev": "TON",
+      "pop": 3.141592,
+      "stadiumCapacity": 50000
+    },
+    {
+      "tid": 10,
+      "cid": 2,
+      "did": 2,
+      "region": "Yinchuan",
+      "name": "Yaks",
+      "abbrev": "YIN",
+      "pop": 1.99,
+      "stadiumCapacity": 50000
+    },
+    {
+      "tid": 11,
+      "cid": 2,
+      "did": 2,
+      "region": "Shizuishan",
+      "name": "Sailors",
+      "abbrev": "SHI",
+      "pop": 0.7304,
+      "stadiumCapacity": 50000
+    },
+    {
+      "tid": 12,
+      "cid": 2,
+      "did": 2,
+      "region": "Wuzhong",
+      "name": "Whales",
+      "abbrev": "WUZ",
+      "pop": 10.72,
+      "stadiumCapacity": 50000
+    },
+    {
+      "tid": 13,
+      "cid": 2,
+      "did": 2,
+      "region": "Guyuan",
+      "name": "Gorillas",
+      "abbrev": "GUY",
+      "pop": 1.9,
+      "stadiumCapacity": 50000
+    },
+    {
+      "tid": 14,
+      "cid": 2,
+      "did": 2,
+      "region": "Zhongwei",
+      "name": "Zebras",
+      "abbrev": "ZHO",
+      "pop": 1.041821,
+      "stadiumCapacity": 50000
+    },
+    {
+      "tid": 15,
+      "cid": 3,
+      "did": 3,
+      "region": "Lhasa",
+      "name": "Legends",
+      "abbrev": "LHA",
+      "pop": 0.9025,
+      "stadiumCapacity": 50000
+    },
+    {
+      "tid": 16,
+      "cid": 3,
+      "did": 3,
+      "region": "Nagqu",
+      "name": "Narwhal",
+      "abbrev": "NAG",
+      "pop": 0.462381,
+      "stadiumCapacity": 50000
+    },
+    {
+      "tid": 17,
+      "cid": 3,
+      "did": 3,
+      "region": "Shigatse",
+      "name": "Sheep",
+      "abbrev": "SHI",
+      "pop": 0.117,
+      "stadiumCapacity": 50000
+    },
+    {
+      "tid": 18,
+      "cid": 3,
+      "did": 3,
+      "region": "Shannan",
+      "name": "Shrimp",
+      "abbrev": "SHA",
+      "pop": 0.33,
+      "stadiumCapacity": 50000
+    },
+    {
+      "tid": 19,
+      "cid": 3,
+      "did": 3,
+      "region": "Tsetang",
+      "name": "Turtles",
+      "abbrev": "TSE",
+      "pop": 0.052,
+      "stadiumCapacity": 50000
+    },
+    {
+      "tid": 20,
+      "cid": 4,
+      "did": 4,
+      "region": "Shanghai",
+      "name": "Stars",
+      "abbrev": "SHA",
+      "pop": 35,
+      "stadiumCapacity": 50000
+    },
+    {
+      "tid": 21,
+      "cid": 4,
+      "did": 4,
+      "region": "Beijing",
+      "name": "Ballers",
+      "abbrev": "BEI",
+      "pop": 22,
+      "stadiumCapacity": 50000
+    },
+    {
+      "tid": 22,
+      "cid": 4,
+      "did": 4,
+      "region": "Chongqing",
+      "name": "Coronavirus",
+      "abbrev": "CHO",
+      "pop": 30,
+      "stadiumCapacity": 50000
+    },
+    {
+      "tid": 23,
+      "cid": 4,
+      "did": 4,
+      "region": "Hong Kong",
+      "name": "Humans",
+      "abbrev": "HON",
+      "pop": 7.1,
+      "stadiumCapacity": 50000
+    },
+    {
+      "tid": 24,
+      "cid": 4,
+      "did": 4,
+      "region": "Guangzhou",
+      "name": "Giants",
+      "abbrev": "GUA",
+      "pop": 44,
+      "stadiumCapacity": 50000
+    }
+]
+    
     
     "gameAttributes": [
         {
@@ -90,9 +291,9 @@
             "value": [
                 {"cid": 0, "name": "Guangxi Region"},
                 {"cid": 1, "name": "Inner Mongolia Region"}
-                {"cid": 2, "name": "Ninxia Region"},
+                {"cid": 2, "name": "Ningxia Region"},
                 {"cid": 3, "name": "Tibet Region"},
-                {"cid": 4, "name": "Xinjiang Region"},
+                {"cid": 4, "name": "Prominent Region"},
 
             ]
         },
@@ -101,9 +302,9 @@
             "value": [
                 {"did": 0, "cid": 0, "name": "Guangxi"},
                 {"did": 1, "cid": 1, "name": "Inner Mongolia"},
-                {"did": 2, "cid": 2, "name": "Ninxia"},
+                {"did": 2, "cid": 2, "name": "Ningxia"},
                 {"did": 3, "cid": 3, "name": "Tibet"},
-                {"did": 4, "cid": 4, "name": "Xinjiang"}
+                {"did": 4, "cid": 4, "name": "Prominent"}
             ]
         },
         {
