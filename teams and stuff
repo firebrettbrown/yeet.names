@@ -67,7 +67,6 @@
                 {"cid": 1, "name": "West Region"},
                 {"cid": 2, "name": "North Region"},
                 {"cid": 3, "name": "South Region"}
-
             ]
         },
         {
@@ -80,9 +79,7 @@
                 {"did": 4, "cid": 2, "name": "Northeast"},
                 {"did": 5, "cid": 2, "name": "Northwest"},
                 {"did": 6, "cid": 3, "name": "Southeast"},
-                {"did": 7, "cid": 3, "name": "Southwest"},
-
-       
+                {"did": 7, "cid": 3, "name": "Southwest"}
             ]
         }
     ]
