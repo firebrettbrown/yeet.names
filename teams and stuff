@@ -1,0 +1,62 @@
+{
+    "version": 33,
+    "gameAttributes": [
+        {
+            "key": "userTid",
+            "value": 15
+        },
+        {
+            "key": "phase",
+            "value": 4
+        },
+        {
+            "key": "daysLeft",
+            "value": 0
+        },
+        {
+            "key": "ownerMood",
+            "value": {
+                "wins": 22222,
+                "playoffs": 22222,
+                "money": 222222
+            }
+        },
+        {
+            "key": "startingSeason",
+            "value": 1525
+        },
+        {
+            "key": "gracePeriodEnd",
+            "value": 2000000000000000000000000
+        },
+        {
+            "key": "numGamesPlayoffSeries",
+            "value": [3, 3, 3, 3]
+        },
+        {
+            "key": "confs",
+            "value": [
+                {"cid": 0, "name": "East Region"},
+                {"cid": 1, "name": "West Region"},
+                {"cid": 2, "name": "North Region"},
+                {"cid": 3, "name": "South Region"}
+
+            ]
+        },
+        {
+            "key": "divs",
+            "value": [
+                {"did": 0, "cid": 0, "name": "Eastnorth"},
+                {"did": 1, "cid": 0, "name": "Eastsouth"},
+                {"did": 2, "cid": 1, "name": "Westnorth"},
+                {"did": 3, "cid": 1, "name": "Westsouth"},
+                {"did": 4, "cid": 2, "name": "Northeast"},
+                {"did": 5, "cid": 2, "name": "Northwest"},
+                {"did": 6, "cid": 3, "name": "Southeast"},
+                {"did": 7, "cid": 3, "name": "Southwest"},
+
+       
+            ]
+        }
+    ]
+}
