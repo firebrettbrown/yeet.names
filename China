@@ -262,14 +262,6 @@
             "value": 0
         },
         {
-            "key": "ownerMood",
-            "value": {
-                "wins": 1,
-                "playoffs": 1,
-                "money": 1
-            }
-        },
-        {
             "key": "season",
             "value": 1701
         },
@@ -280,10 +272,6 @@
         {
             "key": "gracePeriodEnd",
             "value": 1702
-        },
-        {
-            "key": "numGamesPlayoffSeries",
-            "value": [7, 7, 7, 7]
         },
         {
             "key": "confs",
