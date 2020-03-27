@@ -296,7 +296,7 @@
         },
         {
             "key": "names",
-            "value": [
+            "value": {
                 "first": {
                     "China": [
 			["Ailun", 1],
@@ -486,7 +486,7 @@
 			["Zhengdong", 30]
                     ]
                 }
-            ]
+            }
         }
     ]
 }
