@@ -402,35 +402,7 @@
                         ["Kimiya ",5035],
                         ["Kin'ichi",5036],
                         ["Kin'ichirō",5037]
-                    
-                    ],
-                    "China": [
-                        ["Ailun", 1],
-                        ["Chen", 2],
-                        ["Dong", 4],
-                        ["Duo", 5],
-                        ["Gao", 6],
-                        ["Han", 7],
-                        ["Hao", 8],
-                        ["Ji", 9],
-                        ["Jinqiu", 10],
-                        ["Li", 11],
-                        ["Lin", 12],
-                        ["Song", 14],
-                        ["Sun", 15],
-                        ["Tang", 16],
-                        ["Taruike", 17],
-                        ["Wang", 20],
-                        ["Xu", 21],
-                        ["Xue", 22],
-                        ["Yanhao", 23],
-                        ["Yao", 24],
-                        ["Yi", 25],
-                        ["Zhizhi", 26],
-                        ["Zhou", 27],
-                        ["Zhu", 28],
-                        ["Ziming", 29],
-                        ["Zou", 30]
+                                  
                     ]
                 },
                 "last": {
@@ -833,34 +805,7 @@
                         ["Kin'ichi",5036],
                         ["Kin'ichirō",5037]
                     
-                    ],
-                    "China": [
-                        ["Ailun", 1],
-                        ["Chen", 2],
-                        ["Dong", 4],
-                        ["Duo", 5],
-                        ["Gao", 6],
-                        ["Han", 7],
-                        ["Hao", 8],
-                        ["Ji", 9],
-                        ["Jinqiu", 10],
-                        ["Li", 11],
-                        ["Lin", 12],
-                        ["Song", 14],
-                        ["Sun", 15],
-                        ["Tang", 16],
-                        ["Taruike", 17],
-                        ["Wang", 20],
-                        ["Xu", 21],
-                        ["Xue", 22],
-                        ["Yanhao", 23],
-                        ["Yao", 24],
-                        ["Yi", 25],
-                        ["Zhizhi", 26],
-                        ["Zhou", 27],
-                        ["Zhu", 28],
-                        ["Ziming", 29],
-                        ["Zou", 30]
+                     ]
                     ]
                 }
             }
