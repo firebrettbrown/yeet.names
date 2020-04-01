@@ -312,7 +312,7 @@
                         ["Katsuhisa",3022],
                         ["Katsuhito",3023],
                         ["Katsuji",3024],
-                        ["Katsukiki,3025],
+                        ["Katsukiki",3025],
                         ["Katsukiyo",3026],
                         ["Katsumasa",3027],
                         ["Katsumoto",3028],
@@ -714,7 +714,7 @@
                         ["Katsuhisa",3022],
                         ["Katsuhito",3023],
                         ["Katsuji",3024],
-                        ["Katsukiki,3025],
+                        ["Katsukiki",3025],
                         ["Katsukiyo",3026],
                         ["Katsumasa",3027],
                         ["Katsumoto",3028],
@@ -805,8 +805,7 @@
                         ["Kin'ichi",5036],
                         ["Kin'ichirō",5037]
                     
-                     ]
-                    ]
+                     ]                 
                 }
             }
         }
