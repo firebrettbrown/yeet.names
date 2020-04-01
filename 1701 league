@@ -1,8 +1,8 @@
 {
   "first": {
     "England": [
-      ["Andrew", 1],
-      ["John Paul", 3]
+      ["     Andrew", 1],
+      ["     John", 3]
     ],
     "France": [
       ["Hubert", 1],
@@ -18,12 +18,12 @@
       ["Arthur",11],
       ["Alexandre",12],
       ["Victor",13],
-      ["Hugo",30]
+      ["Hugo",29]
     ]
   },
   "last": {
     "England": [
-      [" ",1]
+      ["     ",1]
     ],
     "France": [
       ["LeBlanc",1],
