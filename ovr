@@ -1,0 +1,13 @@
+{
+  "ovr": {
+      type: "number",
+      minumum: 0,
+      maximum: 1000000000000, 
+      },
+  "pot": {
+      type: "number",
+      minumum: 0,
+      maximum: 1000000000000, 
+      }
+}
+      
