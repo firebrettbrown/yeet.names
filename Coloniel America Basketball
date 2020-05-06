@@ -1,0 +1,28 @@
+{
+    "gameAttributes": [
+        {
+            "key": "phase",
+            "value": 0
+        },
+        {
+            "key": "daysLeft",
+            "value": 0
+        },
+        {
+            "key": "season",
+            "value": 1776
+        },
+        {
+            "key": "startingSeason",
+            "value": 1776
+        },
+        {
+            "key":"numDraftRounds",
+            "value": 4
+        },
+        {
+            "key": "gracePeriodEnd",
+            "value": 1780
+        }
+    ]
+}
