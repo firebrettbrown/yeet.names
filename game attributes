@@ -18,7 +18,7 @@
         },
         {
             "key":"numDraftRounds",
-            "value": 0
+            "value": 1
         },
         {
             "key": "gracePeriodEnd",
