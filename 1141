@@ -10,15 +10,15 @@
         },
         {
             "key": "season",
-            "value": 1891
+            "value": 1141
         },
         {
             "key": "startingSeason",
-            "value": 1891
+            "value": 1121
         },
         {
             "key":"numDraftRounds",
-            "value": 1.2
+            "value": 4.7
         },
         {
             "key": "gracePeriodEnd",
