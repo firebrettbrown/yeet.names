@@ -1,0 +1,4 @@
+var year = 2020;
+var numPlayers = 50;
+
+bbgm.draft.genPlayers(year, 1, numPlayers, false);
