@@ -288,19 +288,19 @@
         },
         {
             "key": "season",
-            "value": 650
+            "value": 2020
         },
         {
             "key": "startingSeason",
-            "value": 20
+            "value": 2020
         },
 	{
 	    "key": "numDraftRounds",
-	    "value": 3.5
+	    "value": 4
 	},
         {
             "key": "gracePeriodEnd",
-            "value": 651
+            "value": 2020
         },
         {
             "key": "confs",
